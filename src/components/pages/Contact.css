@@ -1,0 +1,41 @@
+.contact-page {
+    background-color: #f9f9f9;
+    color: #0c3b2e;
+  }
+  
+  .contact-header {
+    background-color: #6d9773;
+    color: #fff;
+    padding: 50px 0;
+  }
+  
+  .contact-icon {
+    color: #bb8a52;
+    margin-bottom: 15px;
+  }
+  
+  .demo-call-card {
+    background-color: #ffba00;
+    color: #0c3b2e;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .demo-call-card .btn-primary {
+    background-color: #0c3b2e;
+    border-color: #0c3b2e;
+  }
+  
+  .social-icons {
+    margin-top: 20px;
+  }
+  
+  .social-icon {
+    color: #6d9773;
+    font-size: 2em;
+    margin: 0 15px;
+  }
+  
+  .social-icon:hover {
+    color: #ffba00;
+  }
+  

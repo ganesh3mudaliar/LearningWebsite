@@ -1,0 +1,26 @@
+.navbarcss .navbar {
+    background-color: #0c3b2e; /* Custom background color */
+  }
+  
+  .navbarcss .navbar a.nav-link {
+    color: white; /* Custom text color */
+  }
+  
+  .navbarcss .navbar .navbar-brand {
+    color: white; /* Custom brand text color */
+  }
+  
+  .navbarcss .navbar .navbar-toggler {
+    border-color: white; /* Custom border color for the toggler */
+  }
+  
+  .navbarcss .navbar .btn-link {
+    color: white; /* Custom button text color */
+  }
+  
+  .navbarcss .navbar .btn-link:hover {
+    color: #0c3b2e;
+    background-color: white;
+  }
+  
+

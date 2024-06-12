@@ -1,0 +1,61 @@
+/* About.css */
+
+/* Jumbotron section */
+.jumbotron-bg {
+    background-color: #0c3b2e; /* Green */
+    color: #ffffff; /* White text */
+    padding: 100px 0;
+  }
+  
+  /* Founding Story, Vision, Mission sections */
+  .about-page {
+    background-color: #6d9773; /* Dark green */
+    color: #ffffff; /* White text */
+    padding: 0px 0;
+  }
+  
+  .about-page h2 {
+    color: #0c3b2e;; /* Gold */
+  }
+  
+  .about-page p {
+    color: #ffffff; /* White text */
+  }
+  
+  
+  .review-cards .review-card {
+    background-color: #0c3b2e; /* Dark green */
+    color: #ffffff; /* White text */
+    border: none;
+    margin-bottom: 20px;
+  }
+  
+  .review-cards .review-card blockquote {
+    border-left: 0;
+    padding-left: 0;
+  }
+  
+  .review-cards .review-card blockquote p {
+    color: #ffffff; /* White text */
+  }
+  
+  /* Footer section */
+  .footer {
+    background-color: #0c3b2e; /* Dark green */
+    color: #ffffff; /* White text */
+    padding: 30px 0;
+  }
+  
+  .footer a {
+    color: #ffffff; /* White links */
+  }
+  
+  .footer .social-icons a {
+    color: #ffffff; /* White social icons */
+    margin-right: 10px;
+  }
+  
+  .footer .social-icons a:hover {
+    color: #bb8a52; /* Gold on hover */
+  }
+  

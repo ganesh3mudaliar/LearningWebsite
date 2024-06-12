@@ -1,0 +1,40 @@
+/* src/components/JoinCommunity.css */
+
+.join-community-page {
+    background-color: #6d9773;
+    padding: 20px;
+    color: #0c3b2e;
+  }
+  
+  .join-community-page h2, .join-community-page h3 {
+    color: #0c3b2e;
+  }
+  
+  .new-post-section, .posts-section {
+    margin-bottom: 40px;
+  }
+  
+  .posts-section .card {
+    color: #0c3b2e;
+    background-color: #75975e;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .chat-section {
+    background-color: #6d9773;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 30px;
+  }
+  
+  .chat-box {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+  .text-muted{
+    color: white;
+  }

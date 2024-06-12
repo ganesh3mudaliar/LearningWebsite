@@ -1,0 +1,26 @@
+.footer {
+    background-color: #0c3b2e;
+    color: white;
+  }
+  
+  .footer h5 {
+    color: white;
+  }
+  
+  .footer p, .footer a {
+    color: white;
+  }
+  
+  .footer a:hover {
+    color: #6fc3df; /* Optional: Add a hover effect for links */
+  }
+  
+  .footer .social-icons a {
+    color: white;
+    margin-right: 10px;
+  }
+  
+  .footer .social-icons a:hover {
+    color: #6fc3df; /* Optional: Add a hover effect for social icons */
+  }
+  

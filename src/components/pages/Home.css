@@ -1,0 +1,47 @@
+.homie {
+  background-color: #f5f5f5; /* light background to highlight the cards */
+}
+
+.jumbotron-bg {
+  background-color: #0c3b2e; /* Example color */
+  color: white;
+  padding: 50px 0;
+}
+
+.jumbotron-content h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.boxxu {
+  padding: 20px;
+}
+
+.course-card, .testimonial-card {
+  background-color: #bb8a52;
+  color: white;
+  box-shadow: 0 4px 8px rgba(119, 66, 24, 0.7); /* darker shade for shadow */
+  border: none;
+}
+
+.course-card .btn-primary, .testimonial-card .btn-primary {
+  background-color: #784c2f;
+  border-color: #784c2f;
+}
+
+.course-card .btn-primary:hover, .testimonial-card .btn-primary:hover {
+  background-color: #5e3a23;
+  border-color: #5e3a23;
+}
+
+blockquote {
+  margin-bottom: 0;
+}
+
+blockquote-footer {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.hr {
+  border-top: 1px solid #bb8a52;
+}
